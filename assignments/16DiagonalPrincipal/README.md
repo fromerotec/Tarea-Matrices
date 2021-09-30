@@ -13,18 +13,18 @@ if __name__ == '__main__':
     main()
 ```
 
-<div style="font-family:verdana; font-size:10px">
+
 <h3>Diagonal principal</h3>
 Desarrolla una función que reciba una matriz de números enteros y regrese como valor de retorno una lista con los elementos de la diagonal principal (como lista). <br><br>
 
 El programa deberá de leer los datos: cantidad de renglones y columnas y los datos de la matriz. Llamar a la función, la cual le regresará una lista con los datos de la diagonal de la matriz y mostrar la lista. En caso de que la matriz no sea una matriz cuadrada, deberá de mostrar el mensaje "la matriz no es cuadrada", esta verificación se debe hacer al leer la cantidad de renglones y columnas, de modo que si la matriz no es cuadrada el programa ya no continúa. Observa los ejemplos.
 
-Entrada: <br>
+<br>Entrada: <br>
 Número de renglones de la matriz
 Número de columnas de la matriz
 Los datos de la matriz
 
-Salida: <br>
+<br>Salida: <br>
 Una lista que contiene los datos de la diagonal principal de la matriz
 
 Ejemplos de ejecución del programa:

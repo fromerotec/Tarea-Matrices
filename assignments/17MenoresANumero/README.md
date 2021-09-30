@@ -1,4 +1,5 @@
 ![Tec de Monterrey](../../images/logotecmty.png)
+
 #Menores a Número
 Matrices: Menores a Número
 
@@ -13,18 +14,18 @@ if __name__ == '__main__':
     main()
 ```
 
-<div style="font-family:verdana; font-size:10px">
+
 <h3>Problema 1: Menores a 10</h3><br>
 Escribe una función que reciba una matriz como parámetro y regrese una lista con los números menores a 10 que se encuentran en la matriz. Se debe tener una función auxiliar que solicite los datos por teclado (número de renglones, número de columnas y elementos de la matriz) y genere la matriz correspondiente (lista con sublistas).
-<b>Utiliza el archivo que ya viene incluido en tu entorno.</b><br><br>
 
-Entrada:<br> 
+
+<br>Entrada:</br> 
 Número de renglones (número entero)<br>
 Número de columnas (número entero)<br>
 Valores de la matriz (números enteros)<br>
 (Se ingresa un valor por renglón y estrictamente en el orden citado).
 
-Salida: <br>
+<br>Salida:</br>
 Una lista con los números menores a 10.
 
 Ejemplo de ejecución del programa.<br>
